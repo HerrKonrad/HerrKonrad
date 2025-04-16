@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur Konrad</h1>
-<h3 align="center">Computer Engineering Student. Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 📫 How to reach me **arthur.14.konrad@outlook.com**
 
